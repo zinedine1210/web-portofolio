@@ -16,7 +16,10 @@ container (my project) :
 - Video
   - PKN
   - BINDO
-
+- Data Science
+  - Insight
+  - Coding
+  - Kaggle
 
 footer :
 - sosmed
