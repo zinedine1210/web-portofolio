@@ -1,0 +1,22 @@
+web portofolio :
+
+header :
+- Nama
+- Asal sekolah
+- Jurusan
+container (my project) :
+- Web
+  - Perpustakaan Online
+  - Blog
+  - Sikritz
+- Desain Grafis
+  - Poster
+  - Figma
+  - Sprite game
+- Video
+  - PKN
+  - BINDO
+
+
+footer :
+- sosmed
